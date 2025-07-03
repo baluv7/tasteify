@@ -1,4 +1,3 @@
-
 # 🍳 Tasteify - Smart Recipe Assistant
 
 [![Privacy First](https://img.shields.io/badge/Privacy-First-green.svg)](https://github.com/yourusername/tasteify)
@@ -30,7 +29,7 @@ Tasteify is an intelligent recipe assistant that uses advanced Graph-RAG (Retrie
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/tasteify.git
+git clone https://github.com/baluv7/tasteify.git
 
 # Navigate to project directory
 cd tasteify
@@ -49,17 +48,21 @@ Visit `http://localhost:5173` to see the application.
 Tasteify uses a sophisticated 3-step GraphRAG pipeline:
 
 ### 1. **Ingredient Graph Analysis**
+
 Your ingredients are mapped through our knowledge graph to identify recipe relationships and compatibility patterns.
 
-### 2. **Vector Similarity Matching** 
+### 2. **Vector Similarity Matching**
+
 Advanced embeddings calculate semantic similarity between your ingredients and our curated recipe database.
 
 ### 3. **AI-Enhanced Recipe Generation**
+
 The best match is enhanced with personalized cooking instructions tailored to your specific ingredients.
 
 ## 🛠️ Technical Architecture
 
 ### Frontend Stack
+
 - **React 18.3.1** - Modern UI framework
 - **TypeScript** - Type-safe development
 - **Tailwind CSS** - Utility-first styling
@@ -67,12 +70,14 @@ The best match is enhanced with personalized cooking instructions tailored to yo
 - **Shadcn/UI** - Premium UI components
 
 ### AI/ML Pipeline
+
 - **Vector Embeddings** - Semantic ingredient matching
 - **Graph Database** - Ingredient relationship mapping
 - **Cosine Similarity** - Recipe ranking algorithm
 - **LLM Integration** - Recipe personalization
 
 ### Key Features
+
 - **GraphRAG Architecture**: Combines graph-based filtering with vector similarity
 - **Privacy-First Design**: No data persistence or user tracking
 - **Responsive UI**: Mobile-first design with desktop optimization
@@ -103,6 +108,7 @@ src/
 ## 🎯 Usage Examples
 
 ### Basic Recipe Search
+
 ```typescript
 // Enter ingredients
 "chicken, broccoli, soy sauce"
@@ -115,6 +121,7 @@ src/
 ```
 
 ### Advanced Features
+
 - **Regenerate**: Get alternative recipes for same ingredients
 - **Download**: Save recipes as `.txt` files
 - **Trust Indicators**: See match scores and graph paths
@@ -122,17 +129,20 @@ src/
 ## 🚀 Deployment
 
 ### Build for Production
+
 ```bash
 npm run build
 ```
 
 ### Deploy to Vercel
+
 ```bash
 npm install -g vercel
 vercel --prod
 ```
 
 ### Deploy to Netlify
+
 ```bash
 npm run build
 # Upload dist/ folder to Netlify
@@ -143,6 +153,7 @@ npm run build
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 ### Development Workflow
+
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
@@ -186,4 +197,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by the Tasteify Team**
 
-*Privacy-first recipe discovery for the modern cook*
+_Privacy-first recipe discovery for the modern cook_
