@@ -190,8 +190,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - 📧 Email: vengalabalupandunadh@gmail.com
-- 🐛 Issues: [GitHub Issues](vengalabalupandunadh@gmail.com)
-- 💬 Discussions: [GitHub Discussions](vengalabalupandunadh@gmail.com)
 
 ---
 
