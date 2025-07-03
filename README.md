@@ -5,6 +5,11 @@
 [![React](https://img.shields.io/badge/React-18.3.1-61dafb.svg)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Latest-3178c6.svg)](https://www.typescriptlang.org/)
 
+
+## 🌟 Live Demo
+
+[Click Here]([https://tasteifyai.netlify.app/])
+
 > **Privacy-first recipe discovery powered by GraphRAG technology**
 
 Tasteify is an intelligent recipe assistant that uses advanced Graph-RAG (Retrieval-Augmented Generation) technology to find the perfect recipe based on your available ingredients. No login required, no data stored, complete privacy guaranteed.
