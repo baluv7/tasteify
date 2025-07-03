@@ -8,7 +8,7 @@
 
 ## 🌟 Live Demo
 
-[Click Here]([https://tasteifyai.netlify.app/])
+[Click Here](https://tasteifyai.netlify.app/)
 
 > **Privacy-first recipe discovery powered by GraphRAG technology**
 
